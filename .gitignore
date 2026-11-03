@@ -1,0 +1,14 @@
+# Source video and generated media
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.png
+output/
+previews/
+frames/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
